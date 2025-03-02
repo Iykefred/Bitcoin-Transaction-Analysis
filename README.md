@@ -64,7 +64,3 @@ The goal of this analysis is to:
 ## **Contributors**
 - **Iykefred**
 - Open to collaboration! Feel free to submit a pull request.
-
----
-
-Would you like any modifications or additions? 🚀
